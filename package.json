@@ -1,0 +1,25 @@
+{
+  "name": "web3-transfer",
+  "version": "1.0.0",
+  "description": "Node.js script for sending ETH/ERC20 tokens using ethers.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaroslav071315/web3-transfer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yaroslav071315/web3-transfer/issues"
+  },
+  "homepage": "https://github.com/Yaroslav071315/web3-transfer#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0"
+  }
+}
